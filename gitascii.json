@@ -6370,46 +6370,6 @@
       "instanceId": "widget_1794130771154_5"
     },
     {
-      "instanceId": "widget_1c8a1975-a002-45d8-9f6c-3e1012c33c51",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 0,
-        "y": 624
-      },
-      "size": {
-        "width": 200,
-        "height": 72
-      },
-      "config": {
-        "selectedSocials": [
-          "linkedin",
-          "twitter",
-          "instagram",
-          "email",
-          "website"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/Vinayak314",
-          "linkedin": "https://www.linkedin.com/in/vinayak-pai-62b7a1289/",
-          "instagram": "https://instagram.com/vinayak3.14",
-          "twitter": "https://x.com/vinayak314",
-          "email": "mailto:vinayakpai2006@gmail.com",
-          "website": "https://vinpi.vercel.app"
-        },
-        "customTitle": "Lets Connect",
-        "badgeStyle": "skillicons",
-        "accentColor": "github-auto",
-        "backgroundColor": "transparent",
-        "showTitle": false,
-        "hideBorder": true,
-        "hideDecorations": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
       "instanceId": "widget_60455b87-a7b1-4d8a-b756-abb948261c69",
       "widgetId": "bio",
       "name": "Bio Widget",
@@ -6451,7 +6411,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795282045612_au7x4",
-    "updatedAt": "2026-11-21T17:27:28.060Z"
+    "revision": "rev_1795282244583_06tho",
+    "updatedAt": "2026-11-21T17:30:46.590Z"
   }
 }
